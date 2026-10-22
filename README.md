@@ -76,7 +76,7 @@ DSA/
 ## 🤝 Connect With Me
 
 - **GitHub:** [Harsh-OnGit](https://github.com/Harsh-OnGit)
-- **LinkedIn:** [Harsh X](www.linkedin.com/in/harsh-x-364b8b3a3)
+- **LinkedIn:** (www.linkedin.com/in/harsh-x-364b8b3a3)
 
 ---
 
